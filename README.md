@@ -1,0 +1,1 @@
+# Example-26-qsec-less-than-mean-cylinder-6-or-8
